@@ -1,6 +1,6 @@
 <template>
   <v-row justify="center" align="center">
-    PieterTolsma.com!
+    PieterTolsma!
   </v-row>
 </template>
 

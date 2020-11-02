@@ -13,8 +13,8 @@ export default {
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    titleTemplate: '%s - pietertolsma.com',
-    title: 'pietertolsma.com',
+    titleTemplate: '%s - Pieter Tolsma',
+    title: 'Personal Website',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
