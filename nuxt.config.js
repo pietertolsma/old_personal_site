@@ -8,7 +8,7 @@ export default {
   target: 'static',
 
   router : {
-    base : '/pietertolsma.github.io/'
+    base : '/pietertolsma.com/'
   },
 
   // Global page headers (https://go.nuxtjs.dev/config-head)
